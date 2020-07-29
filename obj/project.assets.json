@@ -7241,11 +7241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/neox/Documents/Programming/Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/sportstore.csproj",
+      "projectUniqueName": "/home/neox/Documents/Programming/1.Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/sportstore.csproj",
       "projectName": "sportstore",
-      "projectPath": "/home/neox/Documents/Programming/Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/sportstore.csproj",
+      "projectPath": "/home/neox/Documents/Programming/1.Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/sportstore.csproj",
       "packagesPath": "/home/neox/.nuget/packages/",
-      "outputPath": "/home/neox/Documents/Programming/Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/obj/",
+      "outputPath": "/home/neox/Documents/Programming/1.Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/neox/.nuget/NuGet/NuGet.Config"

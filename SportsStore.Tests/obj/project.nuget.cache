@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h/LMpwlbOcMd3ErELr4mFwlQBy+ut/OIak0bsyxMRLnQZCPxvLksbRkPtpzavHxI1mdhm4H+rrkI9BefZcSTsA==",
+  "dgSpecHash": "qsYp5Rl+uSAyVDbHETtnN2IooDZI0lhkrlu9iTs264eBciB1Sk/DUuWGZEfowQCpRYsaWC77NpQSO8O9YbiuIQ==",
   "success": true,
-  "projectFilePath": "/home/neox/Documents/Programming/Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/SportsStore.Tests/SportsStore.Tests.csproj",
+  "projectFilePath": "/home/neox/Documents/Programming/1.Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/SportsStore.Tests/SportsStore.Tests.csproj",
   "expectedPackageFiles": [
     "/home/neox/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/home/neox/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",

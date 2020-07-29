@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pA345dOdGJsW+QnRcP3VaaT51o2Kryz2hrjTZ37sk/SWEi9HK9hV6cLcTidIYP8os3s82pvotjZn+aZzJEltQ==",
+  "dgSpecHash": "Je4FXOkqyWjpbLHhalckGx/nsJeIWIol8Iy214qbPW0TUBnjdRFlPAnsldftyEmzZwhshrIRhv3SA71Q6tYC2Q==",
   "success": true,
-  "projectFilePath": "/home/neox/Documents/Programming/Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/sportstore.csproj",
+  "projectFilePath": "/home/neox/Documents/Programming/1.Training/Ebooks/C#/Pro ASP.NET Core MVC2/sportstore/sportstore.csproj",
   "expectedPackageFiles": [
     "/home/neox/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/home/neox/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
